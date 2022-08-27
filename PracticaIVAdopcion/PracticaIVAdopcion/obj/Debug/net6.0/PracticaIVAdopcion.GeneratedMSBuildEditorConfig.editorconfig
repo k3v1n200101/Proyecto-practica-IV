@@ -19,12 +19,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sala_000/source/repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Users/Sala_000/source/repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/CentrosAdopcion.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2VudHJvc0Fkb3BjaW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Sala_000/source/repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sala_000/source/repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Sala_000/source/repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/Index.razor]
