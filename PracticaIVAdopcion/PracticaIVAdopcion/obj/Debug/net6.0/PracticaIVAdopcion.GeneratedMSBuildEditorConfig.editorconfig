@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PracticaIVAdopcion
 build_property.RootNamespace = PracticaIVAdopcion
-build_property.ProjectDir = C:\Users\Sala_000\Source\Repos\k3v1n200101\Proyecto-practica-IV\PracticaIVAdopcion\PracticaIVAdopcion\
+build_property.ProjectDir = C:\Users\Sala_000\Source\Repos\Proyecto-practica-IV\PracticaIVAdopcion\PracticaIVAdopcion\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Sala_000\Source\Repos\k3v1n200101\Proyecto-practica-IV\PracticaIVAdopcion\PracticaIVAdopcion
+build_property.MSBuildProjectDirectory = C:\Users\Sala_000\Source\Repos\Proyecto-practica-IV\PracticaIVAdopcion\PracticaIVAdopcion
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Sala_000/Source/Repos/k3v1n200101/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/App.razor]
+[C:/Users/Sala_000/Source/Repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sala_000/Source/Repos/k3v1n200101/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/CentrosAdopcion.razor]
+[C:/Users/Sala_000/Source/Repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/CentrosAdopcion.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2VudHJvc0Fkb3BjaW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sala_000/Source/Repos/k3v1n200101/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/FetchData.razor]
+[C:/Users/Sala_000/Source/Repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sala_000/Source/Repos/k3v1n200101/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/Home.razor]
+[C:/Users/Sala_000/Source/Repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sala_000/Source/Repos/k3v1n200101/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/Index.razor]
+[C:/Users/Sala_000/Source/Repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sala_000/Source/Repos/k3v1n200101/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Shared/SurveyPrompt.razor]
+[C:/Users/Sala_000/Source/Repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sala_000/Source/Repos/k3v1n200101/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/_Imports.razor]
+[C:/Users/Sala_000/Source/Repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sala_000/Source/Repos/k3v1n200101/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Shared/MainLayout.razor]
+[C:/Users/Sala_000/Source/Repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-16em6ua198
 
-[C:/Users/Sala_000/Source/Repos/k3v1n200101/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Shared/NavMenu.razor]
+[C:/Users/Sala_000/Source/Repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-eix8zqwd3i
 
-[C:/Users/Sala_000/Source/Repos/k3v1n200101/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/Error.cshtml]
+[C:/Users/Sala_000/Source/Repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sala_000/Source/Repos/k3v1n200101/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/_Host.cshtml]
+[C:/Users/Sala_000/Source/Repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sala_000/Source/Repos/k3v1n200101/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/_Layout.cshtml]
+[C:/Users/Sala_000/Source/Repos/Proyecto-practica-IV/PracticaIVAdopcion/PracticaIVAdopcion/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,5 +1,63 @@
 ﻿@page "/"
 
 <PageTitle>Index</PageTitle>
+<head>
+    <link rel="stylesheet" type="text/css">
+    <style>
+        .Caja {
+            width: 35%;
+            heigh: 70%;
+            position: absolute;
+            top: 30%;
+            left: 40%;
+        }
 
-<h1>Adopcion</h1>
+        .Bienvenidos {
+            text-align: center;
+        }
+
+        .TextoNav {
+            font-weight: bold;
+        }
+
+    </style>
+</head>
+<body style="background-color:lightgray">
+    <div style="background-color:white" class="Caja">
+        <h2 class="Bienvenidos">Bienvenidos</h2>
+        <div>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" style="font-weight:bold;" href="#">
+                            Iniciar sesion
+                        </a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" style="font-weight:bold;" href="#">
+                            Registrarse
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div>
+            <div>
+                <label style="font-weight:bold; margin:20px;">Usuario</label>
+                <br />
+                <input class="input-group-text" type="text" style="width:90%;margin:auto;" />
+            </div>
+            <div>
+                <label style="font-weight:bold; margin:20px;">Contraseña</label>
+                <br />
+                <input class="input-group-text" type="password" style="width:90%;margin:auto;" />
+            </div>
+            <br />
+            <div>
+                <button class="btn btn-light" style="background-color:mediumpurple;width:70%;margin-left:40px;font-weight:bold;">
+                    Iniciar Sesion
+                </button>
+            </div>
+        </div>
+    </div>
+</body>
